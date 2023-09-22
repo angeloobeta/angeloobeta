@@ -4,9 +4,9 @@ ________________________________________________________________________________
 
 🌱 I am proficient in:\
 \
-`Java` `Python` `Dart` `AWS` `Javascript` `MySQL` and `PostgreSQL`\
+`Java`  `Dart` `Python` `Javascript` `AWS` `PostgreSQL` `MongoDB` and `PostMan`\
 \
-[![My Skills](https://skillicons.dev/icons?i=java,python,dart,aws,js,mysql,postgresql,mongodb,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,dart,python,js,aws,postgresql,mongodb,postman)](https://skillicons.dev)
 
 
 - I also work with SpringBoot and NestJs frameworks, and Flutter. \
@@ -25,8 +25,9 @@ ________________________________________________________________________________
  - Twitter: [@angeloobeta](https://twitter.com/angeloobeta)
  - E-mail address: [angeloobeta@hotmail.com](angeloobeta@hotmail.com)
 
- ![Ifeanyichukwu Obeta's Github stats](https://github-readme-stats.vercel.app/api?username=angeloobeta&theme=highcontrast&show_icons=true&count_private=true&bg_color=00008B&title_color=ADD8E6&icon_color=ADD8E6&text_color=FFFFFF)
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloobeta&layout=compact&langs_count=6&theme=dark&w_color=00008B&title_color=ADD8E6&text_color=FFFFFF&card_width=300)
+<! ![Ifeanyichukwu Obeta's Github stats](https://github-readme-stats.vercel.app/api?username=angeloobeta&theme=highcontrast&show_icons=true&count_private=true&bg_color=00008B&title_color=ADD8E6&icon_color=ADD8E6&text_color=FFFFFF)
+ ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloobeta&layout=compact&langs_count=6&theme=dark&w_color=00008B&title_color=ADD8E6&text_color=FFFFFF&card_width=300) 
+ --->
 <!---
 angeloobeta/angeloobeta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
