@@ -9,7 +9,7 @@ ________________________________________________________________________________
 [![My Skills](https://skillicons.dev/icons?i=java,dart,python,js,aws,postgresql,mongodb,postman)](https://skillicons.dev)
 
 
-- I also work with SpringBoot and NestJs frameworks, and Flutter. \
+- I also work with SpringBoot, NestJs frameworks, and Flutter. \
 \
 [![My Skills](https://skillicons.dev/icons?i=spring,nestjs,flutter)](https://skillicons.dev)
  
