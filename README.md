@@ -6,7 +6,7 @@ ________________________________________________________________________________
 \
 `Java`  `Dart` `Python` `GoLang` `Javascript` `AWS` `PostgreSQL` `MongoDB` and `PostMan`\
 \
-[![My Skills](https://skillicons.dev/icons?i=java,dart,python,golang, js,aws,postgresql,mongodb,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,dart,python,go,js,aws,postgresql,mongodb,postman)](https://skillicons.dev)
 
 
 - I also work with SpringBoot, NestJs frameworks, and Flutter. \
