@@ -4,9 +4,9 @@ ________________________________________________________________________________
 
 🌱 I am proficient in:\
 \
-`Java`  `Dart` `Python` `Javascript` `AWS` `PostgreSQL` `MongoDB` and `PostMan`\
+`Java`  `Dart` `Python` `GoLang` `Javascript` `AWS` `PostgreSQL` `MongoDB` and `PostMan`\
 \
-[![My Skills](https://skillicons.dev/icons?i=java,dart,python,js,aws,postgresql,mongodb,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,dart,python,go, js,aws,postgresql,mongodb,postman)](https://skillicons.dev)
 
 
 - I also work with SpringBoot, NestJs frameworks, and Flutter. \
